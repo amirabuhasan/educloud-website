@@ -1724,10 +1724,6 @@ select.form-control-sm:not([size]):not([multiple]) {
     margin: 5px 15px 5px 0;
 }
 
-.social-icons > li > a {
-    font-size: 14px;
-    color: #333;
-}
 
 .social-icons > li > a:hover,
 .social-icons > li > a:focus {
